@@ -1,7 +1,7 @@
 % TestHologram
 % Lloyd Russell 2016
 % Generate a random SLM phase mask to test import and use of HOTlab
-% library.Implements a weighted GS algorithm using Martin Perssons HOTlab
+% library. Implements a weighted GS algorithm using Martin Perssons HOTlab
 % (https://github.com/MartinPersson/HOTlab)
 
 
