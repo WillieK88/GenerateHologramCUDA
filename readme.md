@@ -1,5 +1,5 @@
 # GenerateHologramCUDA
-CUDA script to generate SLM phase masks. Taken from Martin Persson's [HOTlab](https://github.com/MartinPersson/HOTlab).
+CUDA script to generate SLM phase masks. From Martin Persson's [HOTlab](https://github.com/MartinPersson/HOTlab).
 
 
 To compile (on Mac, for Mac)
